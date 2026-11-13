@@ -1,4 +1,6 @@
 Bài 3: Giải mã hiện tượng "Đau ví" do Chênh lệch Tokenization Tiếng Việt
+
+
 **Phần 1 (Phân tích BPE)**:
 giải thích cơ chế cắt từ của BPE (Sub-word Tokenization) là khởi tạo từ điển từ các ký tự đơn lẻ (hoặc byte) và quét qua kho dữ liệu huấn luyện (Pre-training corpus) để gộp các cặp ký tự xuất hiện thường xuyên nhất thành một token mới (sub-word unit)
 
@@ -14,3 +16,4 @@ câu tối giản: "MarkX có các loại rau ngon nhất" -> giảm 35-40% toke
 câu thường:"Hãy phân tích tỷ lệ chuyển đổi khách hàng qua chiến dịch marketing vừa rồi"
 
 câu kết hợp: "Analyze Conversion Rate của campaign Marketing vừa rồi"
+
